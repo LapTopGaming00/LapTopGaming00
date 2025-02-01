@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on IT-PARK
-- 📫 How to reach me tg::@LapTopGamin
+- 📫 How to reach me tg::@Leg1onN1
 
 
 <!---
